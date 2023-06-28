@@ -27,7 +27,6 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
 - Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems
-
 **Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
 
