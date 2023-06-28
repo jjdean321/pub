@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Bio. 
+# Biography
 I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. My research focuses on speaker and domain adaptation in speech recognition.
 
-
-% # 🔥 News
-% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-% - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
+
+- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems  
+**Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, Xunying Liu  
+*ISCA Interspeech 2023, Dublin, Ireland* 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
