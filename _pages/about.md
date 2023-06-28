@@ -22,7 +22,7 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 
 # 📝 Publications 
 
-- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems  
+- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems        
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
