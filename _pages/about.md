@@ -26,13 +26,12 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems
-**Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu
+- Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems 
+**Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu 
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
 
-- Confidence Score Based Conformer Speaker Adaptation for Speech Recognition
-
-**Jiajun Deng***, Xurong Xie*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng.
+- Confidence Score Based Conformer Speaker Adaptation for Speech Recognition 
+**Jiajun Deng***, Xurong Xie*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng 
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
