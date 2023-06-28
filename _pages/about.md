@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Biography
+# 💬 Biography
 I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. My research focuses on speaker and domain adaptation in speech recognition.
 
 # 📝 Publications 
@@ -47,14 +47,18 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The First Prize Scholarship of USTC (3 Times, 2017, 2018, 2019)
+- Bachelor Excellent Graduation Thesis (2017)
+- Merit Student (6 Times, 2014, 2015, 2016)
+- First Prize, College Students Electronic Design Competition of SOC in Province (2016)
+- Silver Medal, ALTERA Aisa Innovative Design Competition Special Topic in Asia (2016)
+- National Scholarship (2015)
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
