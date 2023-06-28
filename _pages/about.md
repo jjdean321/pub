@@ -47,10 +47,20 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
 # 📖 Educations
-- *2020.08 - Presen*, Ph.D. The Chinese University of Hong Kong
-  Information System at Department of SEEM, GPA: 3.88/4.0        
-  Supervisor: Prof. Xunying Liu      
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.08 - Presen*, Ph.D. The Chinese University of Hong Kong                                                                            
+Information System at the Department of SEEM                                               
+Supervisor: Prof. Xunying Liu
+  
+- *2017.09 - 2020.07*, M.E. University of Science and Technology of China        
+Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1\%??)                  
+Supervisor: Prof. Xianqing Jin
+
+- *2013.09 - 2017.06*, B.E. Central China Normal University
+School of Physics, GPA: 91.26/100 (Rank: 1/58)
+
+
+
+                 
 
 {\customcventry{Aug. 2020 - Present}{Information System at Department of SEEM}{Ph.D. The Chinese University of Hong Kong}{GPA: 3.88/4.0}{}{Supervisor: Prof. Xunying Liu}}
 \vspace{0.05cm}
