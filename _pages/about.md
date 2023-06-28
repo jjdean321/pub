@@ -31,11 +31,11 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
 
 - Confidence Score Based Conformer Speaker Adaptation for Speech Recognition             
-**Jiajun Deng***, Xurong Xie*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng             
+**Jiajun Deng\***, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng             
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
 - Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition                            
-**Jiajun Deng***, Fabian Ritter Gutierrez*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu and Helen Meng                             
+**Jiajun Deng\***, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu and Helen Meng                             
 *ISCA INTERSPEECH 2021, Brno, Czech Republic*
 
 - Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                        
