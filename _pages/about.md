@@ -40,7 +40,7 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 
 - Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                        
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                             
-*OSA Optics Express, Volume 28, May 2020*
+*OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
 
 - Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems                
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu        
