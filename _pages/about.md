@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💬 Biography
-I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. My research focuses on speaker and domain adaptation in speech recognition.
+I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. My research focuses on speaker and domain adaptation in speech recognition. 
 
 # 📝 Selected Publications 
 
