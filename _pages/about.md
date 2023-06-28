@@ -20,7 +20,7 @@ redirect_from:
 # 💬 Biography
 I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. My research focuses on speaker and domain adaptation in speech recognition.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems        
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
@@ -46,6 +46,21 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu        
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
+# 📖 Educations
+- *2020.08 - Presen*, Ph.D. The Chinese University of Hong Kong
+  Information System at Department of SEEM, GPA: 3.88/4.0        
+  Supervisor: Prof. Xunying Liu      
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+{\customcventry{Aug. 2020 - Present}{Information System at Department of SEEM}{Ph.D. The Chinese University of Hong Kong}{GPA: 3.88/4.0}{}{Supervisor: Prof. Xunying Liu}}
+\vspace{0.05cm}
+
+{\customcventry{Sep. 2017 - Jul. 2020}{Department of Electronic Engineering and Information Science}{M.E. University of Science and Technology of China}{GPA: 4.03/4.3 (Rank: 1\%)}{}{Supervisor: Prof. Xianqing Jin $\&$ Prof. Zhengyuan Xu}}
+\vspace{0.05cm}
+% Master of Electronic Engineering and Information Science
+
+{\customcventry{Sep. 2013 - Jul. 2017}{School of Physics}{B.E. Central China Normal University}{GPA: 91.26/100 (Rank: 1/58)}{}{}}
+
 # 🎖 Honors and Awards
 - The First Prize Scholarship of USTC (3 Times, 2017, 2018, 2019)
 - Bachelor Excellent Graduation Thesis (2017)
@@ -53,10 +68,6 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 - First Prize, College Students Electronic Design Competition of SOC in Province (2016)
 - Silver Medal, ALTERA Aisa Innovative Design Competition Special Topic in Asia (2016)
 - National Scholarship (2015)
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
