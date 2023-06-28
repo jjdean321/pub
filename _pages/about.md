@@ -47,7 +47,7 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
 # 📖 Educations
-- *2020.08 - Presen*, Ph.D. student, The Chinese University of Hong Kong                                                                            
+- *2020.08 - Present*, Ph.D. student, The Chinese University of Hong Kong                                                                            
 Information System at the Department of SEEM                                               
 Supervisor: Prof. Xunying Liu
   
