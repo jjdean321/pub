@@ -47,29 +47,16 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
 # 📖 Educations
-- *2020.08 - Presen*, Ph.D. The Chinese University of Hong Kong                                                                            
+- *2020.08 - Presen*, Ph.D. student, The Chinese University of Hong Kong                                                                            
 Information System at the Department of SEEM                                               
 Supervisor: Prof. Xunying Liu
   
-- *2017.09 - 2020.07*, M.E. University of Science and Technology of China        
+- *2017.09 - 2020.07*, M.E., University of Science and Technology of China        
 Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1\%??)                  
 Supervisor: Prof. Xianqing Jin
 
-- *2013.09 - 2017.06*, B.E. Central China Normal University
+- *2013.09 - 2017.06*, B.E., Central China Normal University                            
 School of Physics, GPA: 91.26/100 (Rank: 1/58)
-
-
-
-                 
-
-{\customcventry{Aug. 2020 - Present}{Information System at Department of SEEM}{Ph.D. The Chinese University of Hong Kong}{GPA: 3.88/4.0}{}{Supervisor: Prof. Xunying Liu}}
-\vspace{0.05cm}
-
-{\customcventry{Sep. 2017 - Jul. 2020}{Department of Electronic Engineering and Information Science}{M.E. University of Science and Technology of China}{GPA: 4.03/4.3 (Rank: 1\%)}{}{Supervisor: Prof. Xianqing Jin $\&$ Prof. Zhengyuan Xu}}
-\vspace{0.05cm}
-% Master of Electronic Engineering and Information Science
-
-{\customcventry{Sep. 2013 - Jul. 2017}{School of Physics}{B.E. Central China Normal University}{GPA: 91.26/100 (Rank: 1/58)}{}{}}
 
 # 🎖 Honors and Awards
 - The First Prize Scholarship of USTC (3 Times, 2017, 2018, 2019)
@@ -78,10 +65,3 @@ School of Physics, GPA: 91.26/100 (Rank: 1/58)
 - First Prize, College Students Electronic Design Competition of SOC in Province (2016)
 - Silver Medal, ALTERA Aisa Innovative Design Competition Special Topic in Asia (2016)
 - National Scholarship (2015)
-
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
