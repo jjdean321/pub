@@ -52,7 +52,7 @@ Information System at the Department of SEEM
 Supervisor: Prof. Xunying Liu
   
 - *2017.09 - 2020.07*, M.E., University of Science and Technology of China        
-Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1\%??)                  
+Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1%??)                  
 Supervisor: Prof. Xianqing Jin
 
 - *2013.09 - 2017.06*, B.E., Central China Normal University                            
