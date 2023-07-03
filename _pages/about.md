@@ -23,17 +23,34 @@ redirect_from:
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition              
-Tianzi Wang, Shoukang Hu, **Jiajun Deng**, Zengrui Jin, Mengzhe Geng, Yi Wang, Helen Meng and Xunying Liu                
-*ISCA INTERSPEECH 2023, Dublin, Ireland*
-
 - Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems            
 Mingyu Cui, Jiawen Kang, **Jiajun Deng**, Xi Yin, Yutao Xie, Xie Chen, and Xunying Liu                      
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
+- Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus
+Zhaoqing Li, Tianzi Wang, **Jiajun Deng**, Junhao Xu, Shoukang Hu, and Xunying Liu
+*ISCA INTERSPEECH 2023, Dublin, Ireland* 
+
+- Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition              
+Tianzi Wang, Shoukang Hu, **Jiajun Deng**, Zengrui Jin, Mengzhe Geng, Yi Wang, Helen Meng and Xunying Liu                
+*ISCA INTERSPEECH 2023, Dublin, Ireland*
+
+- Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition          
+Shujie Hu, Xurong Xie, Mengzhe Geng, Mingyu Cui, **Jiajun Deng**, Guinan Li, Tianzi Wang, Helen Meng, and Xunying Liu
+*ISCA INTERSPEECH 2023, Dublin, Ireland*    
+
 - Use of Speech Impairment Severity for Dysarthric Speech Recognition            
 Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Mingyu Cui, Guinan Li, Jianwei Yu, Xurong Xie, and Xunying Liu                
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
+
+- Adversarial Data Augmentation Using VAE-GAN for Disordered Speech Recognition
+Zengrui Jin, Xurong Xie, Mengzhe Geng, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Guinan Li, and Xunying Liu
+*IEEE ICASSP2023, Rhodes Island, Greece*
+
+  
+
+
+
 
 - Confidence Score Based Conformer Speaker Adaptation for Speech Recognition             
 **Jiajun Deng**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng                       
