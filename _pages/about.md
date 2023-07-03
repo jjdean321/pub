@@ -44,22 +44,16 @@ Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Mingyu Cui, 
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
 - Exploiting prompt learning with pre-trained language models for Alzheimer's Disease detection              
-Yi Wang, **Jiajun Deng**, Tianzi Wang, Bo Zheng, Shoukang Hu, Xunying Liu, and Helen Meng
+Yi Wang, **Jiajun Deng**, Tianzi Wang, Bo Zheng, Shoukang Hu, Xunying Liu, and Helen Meng            
 *IEEE ICASSP2023, Rhodes Island, Greece*        
 
 - Adversarial Data Augmentation Using VAE-GAN for Disordered Speech Recognition          
 Zengrui Jin, Xurong Xie, Mengzhe Geng, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Guinan Li, and Xunying Liu      
 *IEEE ICASSP2023, Rhodes Island, Greece*  
 
-- Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition
-Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, Mingyu Cui, **Jiajun Deng**, Xunying Liu, and Helen Meng              
+- Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition            
+Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, Mingyu Cui, **Jiajun Deng**, Xunying Liu, and Helen Meng                        
 *IEEE ICASSP2023, Rhodes Island, Greece*     
-
-    
-
-  
-
-
 
 
 - Confidence Score Based Conformer Speaker Adaptation for Speech Recognition             
