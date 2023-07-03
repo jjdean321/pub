@@ -55,14 +55,33 @@ Zengrui Jin, Xurong Xie, Mengzhe Geng, Tianzi Wang, Shujie Hu, **Jiajun Deng**, 
 Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, Mingyu Cui, **Jiajun Deng**, Xunying Liu, and Helen Meng                        
 *IEEE ICASSP2023, Rhodes Island, Greece*     
 
-
 - Confidence Score Based Conformer Speaker Adaptation for Speech Recognition             
 **Jiajun Deng**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng                       
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
+- Two-pass Decoding and Cross-adaptation Based System Combination of End-to-end Conformer and Hybrid TDNN ASR Systems      
+Mingyu Cui, **Jiajun Deng**, Shoukang Hu, Xurong Xie, Tianzi Wang, Shujie HU, Mengzhe Geng, Boyang Xue, Xunying Liu and Helen Meng      
+*ISCA INTERSPEECH 2022, Incheon, Korea*
+
+- Conformer Based Elderly Speech Recognition System for Alzheimer's Disease Detection        
+Tianzi Wang, **Jiajun Deng**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu Cui, Zengrui Jin, Xunying Liu and Helen Meng
+*ISCA INTERSPEECH 2022, Incheon, Korea*
+
+- Audio-visual multi-channel speech separation, dereverberation and recognition    
+Guinan Li\*, Jianwei Yu\*, **Jiajun Deng**, Xunying Liu, and Helen Meng          
+*IEEE ICASSP2022, Singapore*          
+
 - Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition                            
 **Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu and Helen Meng                           
 *ISCA INTERSPEECH 2021, Brno, Czech Republic*
+
+- Load Balancing with Soft Handover for Indoor Hybrid VLC/WiFi Networks    
+Dewen Guo, Xianqing Jin, **Jiajun Deng**, Weijie Liu, Meiyu Jin, Shangbin Li, Chen Gong, and Zhengyuan Xu
+*IEEE ACP 2020*    
+
+- Symbol-level Precoding for Multiuser Visible Light Communication
+Xiaoting Ma, Xianqing Jin, **Jiajun Deng**, Meiyu Jin, Chen Gong, and Zhengyuan Xu
+*IEEE WCSP 2019*
 
 - Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems                
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                  
