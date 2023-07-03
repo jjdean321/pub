@@ -19,19 +19,19 @@ redirect_from:
 
 # 📝 Conference papers
 
-- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems        
+- Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems                            
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition
+- Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition              
 Tianzi Wang, Shoukang Hu, **Jiajun Deng**, Zengrui Jin, Mengzhe Geng, Yi Wang, Helen Meng and Xunying Liu
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems
+- Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems            
 Mingyu Cui, Jiawen Kang, **Jiajun Deng**, Xi Yin, Yutao Xie, Xie Chen, and Xunying Liu
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Use of Speech Impairment Severity for Dysarthric Speech Recognition
+- Use of Speech Impairment Severity for Dysarthric Speech Recognition            
 Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Mingyu Cui, Guinan Li, Jianwei Yu, Xurong Xie, and Xunying Liu
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
