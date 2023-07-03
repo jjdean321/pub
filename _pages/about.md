@@ -93,8 +93,16 @@ Xiaoting Ma, Xianqing Jin, **Jiajun Deng**, Meiyu Jin, Chen Gong, and Zhengyuan 
 **Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu             
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
 
-- Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                        
-**Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                             
+- Neural Architecture Search For LF-MMI Trained Time Delay Neural Networks          
+Shoukang Hu, Xurong Xie, Mingyu Cui, **Jiajun Deng**, Shansong Liu, Jianwei Yu, Mengzhe Geng, Xunying Liu and Helen Meng          
+*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 30, Pages 1093-1107, 2022*        
+
+- Hypergraph Based Resource Allocation Algorithms for VLC Network With Heterogeneous LEDs and Varied Users        
+Bo Bai, **Jiajun Deng**, Xianqing Jin, Bo Su, Tao Shang          
+*IEEE Photonics Journal, Volume 13, Pages 1-10, 2021*
+
+- Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                              
+**Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                                   
 *OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
 
 
