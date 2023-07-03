@@ -35,17 +35,27 @@ Zhaoqing Li, Tianzi Wang, **Jiajun Deng**, Junhao Xu, Shoukang Hu, and Xunying L
 Tianzi Wang, Shoukang Hu, **Jiajun Deng**, Zengrui Jin, Mengzhe Geng, Yi Wang, Helen Meng and Xunying Liu                
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition          
-Shujie Hu, Xurong Xie, Mengzhe Geng, Mingyu Cui, **Jiajun Deng**, Guinan Li, Tianzi Wang, Helen Meng, and Xunying Liu
+- Exploiting Cross-Domain And Cross-Lingual Ultrasound Tongue Imaging Features For Elderly And Dysarthric Speech Recognition                  
+Shujie Hu, Xurong Xie, Mengzhe Geng, Mingyu Cui, **Jiajun Deng**, Guinan Li, Tianzi Wang, Helen Meng, and Xunying Liu            
 *ISCA INTERSPEECH 2023, Dublin, Ireland*    
 
 - Use of Speech Impairment Severity for Dysarthric Speech Recognition            
-Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Mingyu Cui, Guinan Li, Jianwei Yu, Xurong Xie, and Xunying Liu                
+Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Mingyu Cui, Guinan Li, Jianwei Yu, Xurong Xie, and Xunying Liu                        
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Adversarial Data Augmentation Using VAE-GAN for Disordered Speech Recognition
-Zengrui Jin, Xurong Xie, Mengzhe Geng, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Guinan Li, and Xunying Liu
-*IEEE ICASSP2023, Rhodes Island, Greece*
+- Exploiting prompt learning with pre-trained language models for Alzheimer's Disease detection
+Yi Wang, **Jiajun Deng**, Tianzi Wang, Bo Zheng, Shoukang Hu, Xunying Liu, and Helen Meng
+*IEEE ICASSP2023, Rhodes Island, Greece*        
+
+- Adversarial Data Augmentation Using VAE-GAN for Disordered Speech Recognition          
+Zengrui Jin, Xurong Xie, Mengzhe Geng, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Guinan Li, and Xunying Liu      
+*IEEE ICASSP2023, Rhodes Island, Greece*  
+
+- Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition
+Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, Mingyu Cui, **Jiajun Deng**, Xunying Liu, and Helen Meng
+*IEEE ICASSP2023, Rhodes Island, Greece*     
+
+    
 
   
 
