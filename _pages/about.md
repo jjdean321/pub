@@ -64,10 +64,10 @@ Mingyu Cui, **Jiajun Deng**, Shoukang Hu, Xurong Xie, Tianzi Wang, Shujie HU, Me
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
 - Conformer Based Elderly Speech Recognition System for Alzheimer's Disease Detection        
-Tianzi Wang, **Jiajun Deng**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu Cui, Zengrui Jin, Xunying Liu and Helen Meng
+Tianzi Wang, **Jiajun Deng**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu Cui, Zengrui Jin, Xunying Liu and Helen Meng          
 *ISCA INTERSPEECH 2022, Incheon, Korea*
 
-- Audio-visual multi-channel speech separation, dereverberation and recognition    
+- Audio-visual Multi-channel Speech Separation, Dereverberation and Recognition    
 Guinan Li\*, Jianwei Yu\*, **Jiajun Deng**, Xunying Liu, and Helen Meng          
 *IEEE ICASSP2022, Singapore*          
 
