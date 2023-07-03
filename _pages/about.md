@@ -75,12 +75,12 @@ Guinan Li\*, Jianwei Yu\*, **Jiajun Deng**, Xunying Liu, and Helen Meng
 **Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu and Helen Meng                           
 *ISCA INTERSPEECH 2021, Brno, Czech Republic*
 
-- Load Balancing with Soft Handover for Indoor Hybrid VLC/WiFi Networks    
-Dewen Guo, Xianqing Jin, **Jiajun Deng**, Weijie Liu, Meiyu Jin, Shangbin Li, Chen Gong, and Zhengyuan Xu
+- Load Balancing with Soft Handover for Indoor Hybrid VLC/WiFi Networks                    
+Dewen Guo, Xianqing Jin, **Jiajun Deng**, Weijie Liu, Meiyu Jin, Shangbin Li, Chen Gong, and Zhengyuan Xu              
 *IEEE ACP 2020*    
 
-- Symbol-level Precoding for Multiuser Visible Light Communication
-Xiaoting Ma, Xianqing Jin, **Jiajun Deng**, Meiyu Jin, Chen Gong, and Zhengyuan Xu
+- Symbol-level Precoding for Multiuser Visible Light Communication              
+Xiaoting Ma, Xianqing Jin, **Jiajun Deng**, Meiyu Jin, Chen Gong, and Zhengyuan Xu                
 *IEEE WCSP 2019*
 
 - Graph-Based Scheduling for Cooperative Transmission in Indoor VLC Systems                
