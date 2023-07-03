@@ -27,8 +27,8 @@ redirect_from:
 Mingyu Cui, Jiawen Kang, **Jiajun Deng**, Xi Yin, Yutao Xie, Xie Chen, and Xunying Liu                      
 *ISCA INTERSPEECH 2023, Dublin, Ireland*
 
-- Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus
-Zhaoqing Li, Tianzi Wang, **Jiajun Deng**, Junhao Xu, Shoukang Hu, and Xunying Liu
+- Lossless 4-bit Quantization of Architecture Compressed Conformer ASR Systems on the 300-hr Switchboard Corpus            
+Zhaoqing Li, Tianzi Wang, **Jiajun Deng**, Junhao Xu, Shoukang Hu, and Xunying Liu                  
 *ISCA INTERSPEECH 2023, Dublin, Ireland* 
 
 - Hyper-parameter Adaptation of Conformer ASR Systems for Elderly and Dysarthric Speech Recognition              
