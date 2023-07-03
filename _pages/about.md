@@ -17,10 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 💬 Biography
-I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xunying Liu. My research focuses on adaptation techniques in speech recognition and optimization algorithms. 
-
-# 📝 Selected Publications 
+# 📝 Full Publications 
 
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems        
 **Jiajun Deng**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
@@ -46,22 +43,4 @@ I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Xu
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu        
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
-# 📖 Educations
-- *2020.08 - Present*, Ph.D. student, The Chinese University of Hong Kong                                                                            
-Information System at the Department of SEEM                                               
-Supervisor: Prof. Xunying Liu
-  
-- *2017.09 - 2020.07*, M.E., University of Science and Technology of China        
-Department of Electronic Engineering and Information Science, GPA: 4.03/4.3 (Rank: 1%??)                  
-Supervisor: Prof. Xianqing Jin
 
-- *2013.09 - 2017.06*, B.E., Central China Normal University                            
-School of Physics, GPA: 91.26/100 (Rank: 1/58)
-
-# 🎖 Honors and Awards
-- The First Prize Scholarship of USTC (3 Times, 2017, 2018, 2019)
-- Bachelor Excellent Graduation Thesis (2017)
-- Merit Student (6 Times, 2014, 2015, 2016)
-- First Prize, College Students Electronic Design Competition of SOC in Province (2016)
-- Silver Medal, ALTERA Aisa Innovative Design Competition Special Topic in Asia (2016)
-- National Scholarship (2015)
