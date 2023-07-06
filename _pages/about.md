@@ -17,6 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 📝 Journals
+
+- Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems                    
+**Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu             
+*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
+
+- Neural Architecture Search For LF-MMI Trained Time Delay Neural Networks          
+Shoukang Hu, Xurong Xie, Mingyu Cui, **Jiajun Deng**, Shansong Liu, Jianwei Yu, Mengzhe Geng, Xunying Liu and Helen Meng          
+*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 30, Pages 1093-1107, 2022*        
+
+- Hypergraph Based Resource Allocation Algorithms for VLC Network With Heterogeneous LEDs and Varied Users        
+Bo Bai, **Jiajun Deng**, Xianqing Jin, Bo Su, Tao Shang          
+*IEEE Photonics Journal, Volume 13, Pages 1-10, 2021*
+
+- Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                              
+**Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                                   
+*OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
+
 # 📝 Conference papers
 
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems                            
@@ -45,15 +63,15 @@ Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Mingyu Cui, 
 
 - Exploiting prompt learning with pre-trained language models for Alzheimer's Disease detection              
 Yi Wang, **Jiajun Deng**, Tianzi Wang, Bo Zheng, Shoukang Hu, Xunying Liu, and Helen Meng            
-*IEEE ICASSP2023, Rhodes Island, Greece*        
+*IEEE ICASSP 2023, Rhodes Island, Greece*        
 
 - Adversarial Data Augmentation Using VAE-GAN for Disordered Speech Recognition          
 Zengrui Jin, Xurong Xie, Mengzhe Geng, Tianzi Wang, Shujie Hu, **Jiajun Deng**, Guinan Li, and Xunying Liu      
-*IEEE ICASSP2023, Rhodes Island, Greece*  
+*IEEE ICASSP 2023, Rhodes Island, Greece*  
 
 - Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition            
 Shujie Hu, Xurong Xie, Zengrui Jin, Mengzhe Geng, Yi Wang, Mingyu Cui, **Jiajun Deng**, Xunying Liu, and Helen Meng                        
-*IEEE ICASSP2023, Rhodes Island, Greece*     
+*IEEE ICASSP 2023, Rhodes Island, Greece*     
 
 - Confidence Score Based Conformer Speaker Adaptation for Speech Recognition             
 **Jiajun Deng**\*, Xurong Xie\*, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, Xunying Liu and Helen Meng                       
@@ -69,7 +87,7 @@ Tianzi Wang, **Jiajun Deng**, Mengzhe Geng, Zi Ye, Shoukang Hu, Yi Wang, Mingyu 
 
 - Audio-visual Multi-channel Speech Separation, Dereverberation and Recognition    
 Guinan Li\*, Jianwei Yu\*, **Jiajun Deng**, Xunying Liu, and Helen Meng          
-*IEEE ICASSP2022, Singapore*          
+*IEEE ICASSP 2022, Singapore*          
 
 - Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition                            
 **Jiajun Deng**\*, Fabian Ritter Gutierrez\*, Shoukang Hu, Mengzhe Geng, Xurong Xie, Zi Ye, Shansong Liu, Jianwei Yu, Xunying Liu and Helen Meng                           
@@ -87,23 +105,7 @@ Xiaoting Ma, Xianqing Jin, **Jiajun Deng**, Meiyu Jin, Chen Gong, and Zhengyuan 
 **Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                  
 *IEEE International Conference on Communications Workshops (ICC 2019)*
 
-# 📝 Journals
 
-- Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems                    
-**Jiajun Deng**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu             
-*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
-
-- Neural Architecture Search For LF-MMI Trained Time Delay Neural Networks          
-Shoukang Hu, Xurong Xie, Mingyu Cui, **Jiajun Deng**, Shansong Liu, Jianwei Yu, Mengzhe Geng, Xunying Liu and Helen Meng          
-*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 30, Pages 1093-1107, 2022*        
-
-- Hypergraph Based Resource Allocation Algorithms for VLC Network With Heterogeneous LEDs and Varied Users        
-Bo Bai, **Jiajun Deng**, Xianqing Jin, Bo Su, Tao Shang          
-*IEEE Photonics Journal, Volume 13, Pages 1-10, 2021*
-
-- Graph-based Multi-user Scheduling for Indoor Cooperative Visible Light Transmission                                              
-**Jiajun Deng**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                                   
-*OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
 
 
 
