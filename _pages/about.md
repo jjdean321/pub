@@ -20,11 +20,11 @@ redirect_from:
 # 📝 Journals
 - Audio-visual End-to-end Multi-channel Speech Separation, Dereverberation and Recognition                      
 Guinan Li, **<u>Jiajun Deng</u>**, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Mingyu Cui, Helen Meng, and Xunying Liu             
-*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
+*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 2707-2723, 2023*
 
 - Confidence Score Based Speaker Adaptation of Conformer Speech Recognition Systems                      
 **<u>Jiajun Deng</u>**, Xurong Xie, Tianzi Wang, Mingyu Cui, Boyang Xue, Zengrui Jin, Mengzhe Geng, Guinan Li, and Xunying Liu             
-*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 2707-2723, 2023*
+*IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 31, Pages 1175-1190, 2023*
 
 - Neural Architecture Search For LF-MMI Trained Time Delay Neural Networks             
 Shoukang Hu, Xurong Xie, Mingyu Cui, **<u>Jiajun Deng</u>**, Shansong Liu, Jianwei Yu, Mengzhe Geng, Xunying Liu and Helen Meng          
