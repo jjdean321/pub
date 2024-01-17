@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Journals
-- Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition
-Zengrui Jin, Mengzhe Geng, **<u>Jiajun Deng</u>**, Tianzi Wang, Shujie Hu, Guinan Li, Xunying Liu.
+- Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition   
+Zengrui Jin, Mengzhe Geng, **<u>Jiajun Deng</u>**, Tianzi Wang, Shujie Hu, Guinan Li, Xunying Liu.   
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 32, Pages 413-429, 2024*
 
 - Audio-visual End-to-end Multi-channel Speech Separation, Dereverberation and Recognition                      
@@ -43,13 +43,13 @@ Bo Bai, **<u>Jiajun Deng</u>**, Xianqing Jin, Bo Su, Tao Shang
 *OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
 
 # 📝 Conference papers
-- Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems
-**<u>Jiajun Deng</u>**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu. 
-*IEEE ICASSP 2024, Seoul, Korea*
+- Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems    
+**<u>Jiajun Deng</u>**, Xurong Xie, Guinan Li, Mingyu Cui, Mengzhe Geng, Zengrui Jin, Tianzi Wang, Shujie Hu, Zhaoqing Li, Xunying Liu.    
+*IEEE ICASSP 2024, Seoul, Korea*   
 
-- Towards Automatic Data Augmentation for Disordered Speech Recognition
-Zengrui Jin, Xurong Xie, Tianzi Wang, Mengzhe Geng, **<u>Jiajun Deng</u>**, Guinan Li, Shujie Hu, Xunying Liu.
-*IEEE ICASSP 2024, Seoul, Korea*
+- Towards Automatic Data Augmentation for Disordered Speech Recognition      
+Zengrui Jin, Xurong Xie, Tianzi Wang, Mengzhe Geng, **<u>Jiajun Deng</u>**, Guinan Li, Shujie Hu, Xunying Liu.      
+*IEEE ICASSP 2024, Seoul, Korea*   
 
 - Factorised Speaker-environment Adaptive Training of Conformer Speech Recognition Systems                            
 **<u>Jiajun Deng</u>**, Guinan Li, Xurong Xie, Zengrui Jin, Mingyu Cui, Tianzi Wang, Shujie Hu, Mengzhe Geng, and Xunying Liu  
