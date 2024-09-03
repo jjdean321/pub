@@ -23,7 +23,7 @@ Shujie Hu, Xurong Xie, Mengzhe Geng, Zengrui Jin, **<u>Jiajun Deng</u>**, Guinan
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 32, Pages 3561-3575, 2024*
 
 - Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition   
-Zengrui Jin, Mengzhe Geng, **<u>Jiajun Deng</u>**, Tianzi Wang, Shujie Hu, Guinan Li, Xunying Liu.   
+Zengrui Jin, Mengzhe Geng, **<u>Jiajun Deng</u>**, Tianzi Wang, Shujie Hu, Guinan Li, Xunying Liu.
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 32, Pages 413-429, 2024*
 
 - Audio-visual End-to-end Multi-channel Speech Separation, Dereverberation and Recognition                      
@@ -60,7 +60,7 @@ Tianzi Wang, Xurong Xie, Zhaoqing Li, Shoukang Hu, Zengrui Jin, **<u>Jiajun Deng
 *ISCA Interspeech2024, Kos, Greece*
 
 - One-pass Multiple Conformer and Foundation Speech Systems Compression and Quantization Using An All-in-one Neural Model
-Zhaoqing Li, Haoning Xu, Tianzi Wang, Shoukang Hu, Zengrui Jin, Shujie Hu, **<u>Jiajun Deng</u>**, Mingyu Cui, Mengzhe Geng, Xunying Liu
+Zhaoqing Li, Haoning Xu, Tianzi Wang, Shoukang Hu, Zengrui Jin, Shujie Hu, **<u>Jiajun Deng</u>**, Mingyu Cui, Mengzhe Geng, Xunying Liu  
 *ISCA Interspeech2024, Kos, Greece*
 
 - Towards High-performance and Low-latency Feature-based Speaker Adaptation of Conformer Speech Recognition Systems    
