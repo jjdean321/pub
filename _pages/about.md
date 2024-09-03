@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Journals
-- Self-supervised ASR Models and Features For Dysarthric and Elderly Speech Recognition
-  Shujie Hu, Xurong Xie, Mengzhe Geng, Zengrui Jin, **<u>Jiajun Deng</u>**, Guinan Li, Yi Wang, Mingyu Cui, Tianzi Wang, Helen Meng, Xunying Liu
+- Self-supervised ASR Models and Features For Dysarthric and Elderly Speech Recognition         
+Shujie Hu, Xurong Xie, Mengzhe Geng, Zengrui Jin, **<u>Jiajun Deng</u>**, Guinan Li, Yi Wang, Mingyu Cui, Tianzi Wang, Helen Meng, Xunying Liu        
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 32, Pages 3561-3575, 2024*
 
 - Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition   
