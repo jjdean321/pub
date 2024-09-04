@@ -53,15 +53,15 @@ Bo Bai, **<u>Jiajun Deng</u>**, Xianqing Jin, Bo Su, Tao Shang
 **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu           
 *To appear in ISMIR 2024, San Francisco, USA*
 
-- Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition
+- Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition         
 Guinan Li, **<u>Jiajun Deng</u>**, Youjun Chen, Mengzhe Geng, Shujie Hu, Zhe Li, Zengrui Jin, Tianzi Wang, Xurong Xie, Helen Meng, Xunying Liu         
 *ISCA Interspeech 2024, Kos, Greece*
 
-- Towards Effective and Efficient Non-autoregressive Decoding Using Block-based Attention Mask
+- Towards Effective and Efficient Non-autoregressive Decoding Using Block-based Attention Mask           
 Tianzi Wang, Xurong Xie, Zhaoqing Li, Shoukang Hu, Zengrui Jin, **<u>Jiajun Deng</u>**, Mingyu Cui, Shujie Hu, Mengzhe Geng, Guinan Li, Helen Meng, Xunying Liu       
 *ISCA Interspeech 2024, Kos, Greece*
 
-- One-pass Multiple Conformer and Foundation Speech Systems Compression and Quantization Using An All-in-one Neural Model
+- One-pass Multiple Conformer and Foundation Speech Systems Compression and Quantization Using An All-in-one Neural Model           
 Zhaoqing Li, Haoning Xu, Tianzi Wang, Shoukang Hu, Zengrui Jin, Shujie Hu, **<u>Jiajun Deng</u>**, Mingyu Cui, Mengzhe Geng, Xunying Liu         
 *ISCA Interspeech 2024, Kos, Greece*
 
