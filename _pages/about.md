@@ -46,6 +46,7 @@ Bo Bai, **<u>Jiajun Deng</u>**, Xianqing Jin, Bo Su, Tao Shang
 **<u>Jiajun Deng</u>**, Xianqing Jin, Xiaoting Ma, Meiyu Jin, Chen Gong and Zhengyuan Xu                                                   
 *OSA Optics Express, Volume 28, Pages 15984-16002, 2020*
 
+
 # 📝 Conference papers
 - Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
 **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu           
