@@ -18,6 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Journals
+- Homogeneous Speaker Features for On-the-Fly Dysarthric and Elderly Speaker Adaptation and Speech Recognition
+Mengzhe Geng, Xurong Xie, **<u>Jiajun Deng</u>**, Zengrui Jin, Guinan Li, Tianzi Wang, Shujie Hu, Zhaoqing Li, Helen Meng, Xunying Liu.
+*IEEE Transactions on Audio, Speech and Language Processing, Volume 33, Pages 1689-1705, 2025*
+
 - Self-supervised ASR Models and Features For Dysarthric and Elderly Speech Recognition         
 Shujie Hu, Xurong Xie, Mengzhe Geng, Zengrui Jin, **<u>Jiajun Deng</u>**, Guinan Li, Yi Wang, Mingyu Cui, Tianzi Wang, Helen Meng, Xunying Liu        
 *IEEE/ACM Transactions on Audio, Speech and Language Processing, Volume 32, Pages 3561-3575, 2024*
@@ -49,9 +53,33 @@ Bo Bai, **<u>Jiajun Deng</u>**, Xianqing Jin, Bo Su, Tao Shang
 
 
 # 📝 Conference papers
+- On-the-fly Routing for Zero-shot MoE Speaker Adaptation of Speech Foundation Models for Dysarthric Speech Recognition
+Shujie Hu, Xurong Xie, Mengzhe Geng, **<u>Jiajun Deng</u>**, Huimeng Wang, Guinan Li, Chengxi Deng, Tianzi Wang, Mingyu Cui, Helen Meng, Xunying Liu.    
+*ISCA Interspeech2025, Rotterdam, The Netherlands*   
+
+- Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR
+Mingyu Cui, Yifan Yang, **<u>Jiajun Deng</u>**, Jiawen Kang, Shujie Hu, Tianzi Wang, Zhaoqing Li, Shiliang Zhang, Xie Chen, Xunying Liu.  
+*ISCA Interspeech2025, Rotterdam, The Netherlands*
+
+- MOPSA: Mixture of Prompt-Experts Based Speaker Adaptation for Elderly Speech Recognition
+Chengxi Deng, Xurong Xie, Shujie Hu, Mengzhe Geng, Yicong Jiang, Jiankun Zhao, **<u>Jiajun Deng</u>**, Guinan Li, Youjun Chen, Huimeng Wang, Haoning Xu, Mingyu Cui, Xunying Liu.
+*ISCA Interspeech2025, Rotterdam, The Netherlands*
+
+- Effective and Efficient Mixed Precision Quantization of Speech Foundation Models
+Haoning Xu, Zhaoqing Li, Zengrui Jin, Huimeng Wang, Youjun Chen, Guinan Li, Mengzhe Geng, Shujie Hu, **<u>Jiajun Deng</u>**, Xunying Liu.
+*IEEE ICASSP2025, Hyderabad, India*
+
+- Phone-purity Guided Discrete Tokens for Dysarthric Speech Recognition
+Huimeng Wang, Xurong Xie, Mengzhe Geng, Shujie Hu, Haoning Xu, Youjun Chen, Zhaoqing Li, **<u>Jiajun Deng</u>**, Xunying Liu
+*IEEE ICASSP2025, Hyderabad, India*
+
+- End-to-end automatic singing skill evaluation using cross-attention and data augmentation for solo singing and singing with accompaniment 
+Yaolong Ju, Chun Yat Wu, Betty Cortiñas Lorenzo, Jing Yang, **<u>Jiajun Deng</u>**, Fan Fan, Simon Lui          
+*ISMIR 2024, San Francisco, USA*
+
 - Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with SSL Features        
 **<u>Jiajun Deng</u>**, Yaolong Ju, Jing Yang, Simon Lui, Xunying Liu           
-*To appear in ISMIR 2024, San Francisco, USA*
+*ISMIR 2024, San Francisco, USA*
 
 - Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition         
 Guinan Li, **<u>Jiajun Deng</u>**, Youjun Chen, Mengzhe Geng, Shujie Hu, Zhe Li, Zengrui Jin, Tianzi Wang, Xurong Xie, Helen Meng, Xunying Liu         
