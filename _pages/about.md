@@ -18,6 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📝 Journals
+- Towards Effective and Efficient Non-autoregressive Decoders for Conformer and LLM-based ASR using Block-based Attention Mask
+Tianzi Wang, Xurong Xie, Zengrui Jin, Mengzhe Geng, **<u>Jiajun Deng</u>**, Zhaoqing Li, Shoukang Hu, Shujie Hu, Guinan Li, Mingyu Cui, Helen Meng, Xunying Liu.
+*IEEE Transactions on Audio, Speech and Language Processing, Volume 33, 2025.*
+
+- Exploring Cross-Utterance Speech Contexts for Conformer-Transducer Speech Recognition Systems
+Mingyu Cui, Mengzhe Geng, **<u>Jiajun Deng</u>**, Chengxi Deng, Jiawen Kang, Shujie Hu, Guinan Li, Tianzi Wang, Zhaoqing Li, Xie Chen, Xunying Liu.
+*IEEE Transactions on Audio, Speech and Language Processing, Volume 33, Pages 4168-4183, 2025.*
+
 - Homogeneous Speaker Features for On-the-Fly Dysarthric and Elderly Speaker Adaptation and Speech Recognition     
 Mengzhe Geng, Xurong Xie, **<u>Jiajun Deng</u>**, Zengrui Jin, Guinan Li, Tianzi Wang, Shujie Hu, Zhaoqing Li, Helen Meng, Xunying Liu.     
 *IEEE Transactions on Audio, Speech and Language Processing, Volume 33, Pages 1689-1705, 2025*
